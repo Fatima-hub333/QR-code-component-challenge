@@ -3,10 +3,10 @@
 # QR Code Components
 It's an HTML5 & CSS challenge to build a QR code component card that does not shift when screen sizes became decrease or decrease.
 
-![screenshot](Google_Clone.png)
+![screenshot](images/QR.png)
 
 ## [LiveDemo] 
-(https://zesty-smakager-1f2b9d.netlify.app)
+(https://cool-alfajores-b7effb.netlify.app)
 
 ## Built With
 
