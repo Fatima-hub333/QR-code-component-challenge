@@ -1,0 +1,28 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  padding: 20px;
+}
+
+.container {
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 15px;
+  width: 280px;
+  padding: 20px;
+  /* margin-top: 100px; */
+  margin: 100px auto;
+}
+
+.logo-img {
+  width: 100%;
+  border-radius: 5px;
+  display: block;
+  margin: 0 auto;
+}
+
+.container-content {
+  /* width: 70%; */
+  margin: 0 auto;
+  text-align: center;
+}
